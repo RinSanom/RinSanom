@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Sanom👋
+### I'm cr on you teacher
+
 
 <!--
 **RinSanom/RinSanom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
