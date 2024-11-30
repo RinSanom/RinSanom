@@ -29,4 +29,19 @@
 <p align="left">
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="48"> 
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48">     
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width="48"> 
+</p>
+<h4 align="left">Tool :</h4>
+<p align="left">
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="48"> 
+</p>
+<h4 align="left">Other :</h4>
+<p align="left">
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" width="48"> 
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="48"> 
 </p>
