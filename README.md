@@ -2,5 +2,6 @@
 <h3 align="center">A frontend developer</h3>
 <h3 align="left">Languages </h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=all" />
+    <img src="https://github.com/user-attachments/assets/d3068c44-bb63-4c8b-b02c-dc96176b241c
+" />
 </p>
