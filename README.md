@@ -2,7 +2,5 @@
 <h3 align="center">A frontend developer</h3>
 <h3 align="left">Languages </h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </p>
