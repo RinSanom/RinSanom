@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanom</h1>
 <h3 align="center">A frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinsanom" alt="rinsanom" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
