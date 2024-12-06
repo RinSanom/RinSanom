@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sanom </h1>
 <h3 align="left">A frontend developer</h3>
 <h4 align="left">Programming Languages i have lean :  </h4>
+<img src="/MuyleangIng/MuyleangIng/raw/main/q.svg" style="max-width: 100%;">
 <p align="left">
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" width="48"> 
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="48"> 
