@@ -45,5 +45,5 @@
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" width="48"> 
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="48"> 
 </p>
-<a href="#"><img src="/MuyleangIng/MuyleangIng/raw/main/q.svg" style="max-width: 100%;"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/MuyleangIng/MuyleangIng/main/q.svg" style="max-width: 100%;"></a>
 
