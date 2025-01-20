@@ -46,6 +46,6 @@
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="48"> 
 </p>
 <div>
-    <iframe src="https://snek-rinsanoms-projects.vercel.app/" width="100%" height="600" frameborder="0"></iframe>
+    <img src="https://snek-rinsanoms-projects.vercel.app/" width="100%" height="600" frameborder="0">/>
 </div>
 
