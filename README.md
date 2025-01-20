@@ -45,5 +45,10 @@
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" width="48"> 
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="48"> 
 </p>
+<p>⚡ Fun fact Hello I'm who am Me.In my free time, I build software project and research new technology</p>
 <a href="#"><img src="https://raw.githubusercontent.com/MuyleangIng/MuyleangIng/main/q.svg" style="max-width: 100%;"></a>
+<p align="center" dir="auto"> 
+  Visitor count<br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/40be67f38ec93f31bc6ced1937ffa81ff2022df53338a09c7417c3c1ea331941/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6265676f696e67746f2f636f756e742e737667"><img src="https://camo.githubusercontent.com/40be67f38ec93f31bc6ced1937ffa81ff2022df53338a09c7417c3c1ea331941/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6265676f696e67746f2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/begoingto/count.svg" style="max-width: 100%;"></a>
+</p>
 
