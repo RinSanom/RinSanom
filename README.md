@@ -46,6 +46,7 @@
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="48"> 
 </p>
 <p>⚡ Fun fact Hello I'm who am Me.In my free time, I build software project and research new technology</p>
+<h1>✍️ Random Dev Quote </h1>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/540b7ddca5ec8693e939aac37b3ef6cbf509820e7624de69e8e0c4a9b00c8831/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/540b7ddca5ec8693e939aac37b3ef6cbf509820e7624de69e8e0c4a9b00c8831/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" style="max-width: 100%;"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/MuyleangIng/MuyleangIng/main/q.svg" style="max-width: 100%;"></a>
 <p align="center" dir="auto"> 
