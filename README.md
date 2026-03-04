@@ -8,10 +8,9 @@
 ##  About Me
 
 -  I’m a Computer Science student passionate about **full-stack development** and **IoT systems**
--  Currently learning **Django**, **Laravel**, and **Spring Boot**
 -  Exploring **MQTT** and **Real-time air monitoring projects**
 -  I love building smart solutions that solve real-world problems
--  String Microservice Dev
+-  Microservice Dev
 
 
 <h1>✍️ Random Dev Quote </h1>
